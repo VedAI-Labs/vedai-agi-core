@@ -30,6 +30,6 @@ Open minds, open source, open future.
 
 ## Follow the Journey
 
-- Website: [www.vedai.org](http://www.vedai.org) (Coming Soon)
+- Website: [www.vedagi.com](http://www.vedagi.com) (Coming Soon)
 - Twitter: @Ved_AI
 - LinkedIn: Ved AI
