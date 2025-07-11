@@ -1,6 +1,6 @@
 # Ved AI – Open Artificial General Intelligence Core
 
-**Ved AI** is building the world’s first open, safe, and human-aligned AGI.
+**Ved AGI** is building the world’s first open, safe, and human-aligned AGI.
 Our mission: democratize general intelligence so it serves all, not just the few.
 
 ---
@@ -31,5 +31,5 @@ Open minds, open source, open future.
 ## Follow the Journey
 
 - Website: [www.vedagi.com](http://www.vedagi.com) (Coming Soon)
-- Twitter: @Ved_AI
-- LinkedIn: Ved AI
+- Twitter: @Ved_AGI
+- LinkedIn: Ved AGI
