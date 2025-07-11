@@ -1,4 +1,4 @@
-# Ved AI – Open Artificial General Intelligence Core
+# Ved AGI – Open Artificial General Intelligence Core
 
 **Ved AGI** is building the world’s first open, safe, and human-aligned AGI.
 Our mission: democratize general intelligence so it serves all, not just the few.
