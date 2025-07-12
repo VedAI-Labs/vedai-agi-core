@@ -7,7 +7,7 @@ Our mission: democratize general intelligence so it serves all, not just the few
 
 ## Why AGI?
 
-Narrow AI can answer questions. Ved AI’s AGI will reason, plan, create, and learn across domains—language, strategy, healthcare, creativity, and beyond.
+Narrow AI can answer questions. Ved AGI will reason, plan, create, and learn across domains—language, strategy, healthcare, creativity, and beyond.
 Every repo, model, and experiment here is a step toward true artificial general intelligence.
 
 ---
