@@ -31,5 +31,5 @@ Open minds, open source, open future.
 ## Follow the Journey
 
 - Website: [www.vedagi.com](http://www.vedagi.com) (Coming Soon)
-- Twitter: @Ved_AGI
+- Twitter: [@Ved_AGI](https://x.com/Ved_AGI)
 - LinkedIn: [VED AGI](https://www.linkedin.com/company/ved-agi/about/?viewAsMember=true)
