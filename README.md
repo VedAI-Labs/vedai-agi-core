@@ -32,4 +32,4 @@ Open minds, open source, open future.
 
 - Website: [www.vedagi.com](http://www.vedagi.com) (Coming Soon)
 - Twitter: @Ved_AGI
-- LinkedIn: Ved AGI
+- LinkedIn: [VED AGI]([http://www.vedagi.com](https://www.linkedin.com/company/ved-agi/about/?viewAsMember=true)) 
