@@ -1,0 +1,52 @@
+# Ved AGI MVP Build Sprint – Day 1 & 2 Checklist
+
+## Goal (Day 1–2)
+- [ ] Public-facing landing page + GitHub + working LLM demo (Ved AGI branding) + clear story
+
+## 1. Finalize MVP Scope
+- [ ] Define MVP: demo (chatbot/LLM), public repo, roadmap, landing page
+- [ ] Choose demo platform (HuggingFace Spaces / Colab / Local)
+
+## 2. Build & Launch Landing Page
+- [ ] Set up with Framer, Carrd, or GitHub Pages
+- [ ] Add logo, one-line mission, elevator pitch
+- [ ] Add placeholder/demo link and “Why Now” section
+- [ ] Add email sign-up form
+- [ ] Link socials: GitHub, Discord, LinkedIn, X
+- [ ] Point vedagi.com/ved.ai domain
+
+## 3. Stand Up GitHub Repo
+- [x] Create public repo (ved-agi)
+- [x] Add README.md (mission, MVP, quickstart, roadmap, contributing)
+- [ ] Add LICENSE (MIT/Apache 2.0)
+- [ ] Add .github folder (issues, PR templates, discussions)
+- [ ] Commit MVP agent/demo code
+- [ ] Add instructions for local/Colab running
+
+## 4. Build & Deploy LLM Demo
+- [ ] Fork and rebrand public chatbot demo (HuggingFace Spaces or similar)
+- [ ] Add Ved AGI branding (logo, name, colors)
+- [ ] Set system prompt and persona
+- [ ] Test and deploy
+- [ ] Link demo on landing page
+
+## 5. Polish Branding & Story
+- [ ] Polish landing page copy for investors/press
+- [ ] Update demo branding (logo, title, colors)
+- [ ] Write clear “Why Now” copy
+- [ ] Add About/Team section (bio, LinkedIn)
+
+## 6. Go Public & Invite Feedback
+- [ ] Share landing/demo on socials
+- [ ] DM peers/early supporters for feedback
+- [ ] Announce on X, LinkedIn, Discord, Reddit
+- [ ] Enable GitHub Discussions/Issues
+- [ ] Post first GitHub update
+
+## Deliverables by End of Day 7
+- [ ] Live landing page
+- [ ] Public GitHub repo with MVP code
+- [ ] Live LLM demo (branded)
+- [ ] Email/Discord/Feedback channel
+- [ ] "Why Now" story live
+- [ ] First users/contributors
