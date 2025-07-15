@@ -38,7 +38,7 @@ We’re building in the open and invite the world to audit, contribute, and impr
 ## Supporters & Partners
 
 We welcome collaboration and support from research groups, universities, nonprofits, industry leaders, and philanthropists who believe in open AGI for all.  
-If you’re interested in partnering, supporting, or advancing this mission, **please contact us via [www.vedagi.com](http://www.vedagi.com) or reach out on Twitter/X [@Ved_AGI](https://twitter.com/Ved_AGI)**.
+If you’re interested in partnering, supporting, or advancing this mission, **please contact us via [www.vedagi.com](http://www.vedagi.com) (contact us coming soon) but for now reach out on Twitter/X [@Ved_AGI](https://twitter.com/Ved_AGI)**.
 
 Together, we can ensure artificial general intelligence is developed safely, ethically, and openly—for the benefit of all humanity.
 
